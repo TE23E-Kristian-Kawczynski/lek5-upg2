@@ -1,0 +1,115 @@
+.mountains-of-christmas-regular {
+    font-family: "Mountains of Christmas", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+body{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+#rubrik{
+    align-items: center;
+    text-align: center;
+}
+.outer{
+    background-image: url(./img/snow_winter_trees.jpg);
+    background-size: cover;
+    border: 3px solid red;
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
+.länkar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    border: 3px solid red;
+    border-radius: 10px;
+    margin: 10px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+#smhi{
+    height: 50px;
+    width: 120px;
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 8px;
+}
+#sweclockers{
+    height: 50px;
+    width: 220px;
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 8px;
+}
+#RT{
+    height: 50px;
+    width: 220px;
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 8px;
+}
+#vinterrubrik{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 65px;
+    margin-bottom: 120px;
+}
+#middle-outer{
+    display: flex;
+    flex-direction: row;
+    border: 3px solid red;
+    border-radius: 10px;
+    padding: 5px;
+    gap: 10px;
+    margin-bottom: 7px;
+}
+#mdn{
+    height: 40px;
+    width: 140px;
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#W3{
+    height: 40px;
+    border: 3px solid black;
+    border-radius: 10px;
+    align-self: stretch;
+}
+#länkar2{
+    display: flex;
+    flex-direction: column;
+    border: 3px solid red;
+    border-radius: 10px;
+    align-items: center;
+    gap: 15px;
+}
+#text{
+    border: 3px solid red;
+    border-radius: 10px;
+}
+#bild{
+    border: 3px solid red;
+    border-radius: 10px;
+    width: 125px;
+}
+
+#träd{
+    width:70px;
+    height:700px;
+}
+#email{
+    border: 3px solid red;
+    border-radius: 10px;
+    text-align: center;
+    height: 30px;
+    align-items: center;
+}
+#mail{
+    margin-top: 1px;
+    font-size: 25px;
+}
